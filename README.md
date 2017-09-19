@@ -17,4 +17,4 @@ Everyone: Understand rules and give updates on progress. If need help or contact
 
 NOTICE: DOES ANYONE HAVE ANY FLIPPING IDEA HOW TF TO CODE THE FRIGGIN' WEBSITE??
 
-<a href="https://www.google.com">This is a link</a>
+<a href="https://www.cabbusiness.org">This is a link does this work this is coded in html so yeah lol</a>
