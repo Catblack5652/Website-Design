@@ -16,3 +16,5 @@ Sara: Do research and find/make graphics to be used in website
 Everyone: Understand rules and give updates on progress. If need help or contact, go either to the shared Google Document or the Google Hangout.
 
 NOTICE: DOES ANYONE HAVE ANY FLIPPING IDEA HOW TF TO CODE THE FRIGGIN' WEBSITE??
+
+<a href="https://www.google.com">This is a link</a>
