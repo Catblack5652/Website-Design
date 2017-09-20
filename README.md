@@ -62,3 +62,5 @@ Yay! Jack has figured out how to code on here!
 <img src="https://orig00.deviantart.net/3857/f/2013/202/2/9/295086f08150c92fcef4f751b210a529-d6eg5xt.jpg" alt="Ascension" width="650" height="425">
 
 <img src="https://orig00.deviantart.net/46be/f/2015/264/e/3/e36c58742f19cd8785e08c9bd7aeb885-d9aeex6.jpg" alt="FinalForm" width="650" height="425">
+
+ANOTHER ANNOUNCEMENT: YAY!! I have found out how to code pictures using html. It actually tells a story. Tell me what you think! Enter the document with the actual code to see what I did. Also, suggestion: to learn about more coding using html use this website called W3eschool.
